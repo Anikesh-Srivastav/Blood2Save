@@ -30,7 +30,7 @@ Blood2Save is a web-based application designed to simplify blood donation by con
 
 1.  **Clone the repository:**
     ```bash
-    git clone [[repository URL]](https://github.com/Anikesh-Srivastav/Blood2Save.git)
+    git clone (https://github.com/Anikesh-Srivastav/Blood2Save.git)
     ```
 2.  **Import the project:** Import the project into Eclipse or your preferred IDE.
 3.  **Start XAMPP:** Start XAMPP and run the MySQL service.
